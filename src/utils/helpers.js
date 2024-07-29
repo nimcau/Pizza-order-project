@@ -4,8 +4,8 @@ export function formatCurrency(value) {
     currency: "EUR",
   }).format(value);
 }
-
 export function formatDate(dateStr) {
+  
   return new Intl.DateTimeFormat("en", {
     day: "numeric",
     month: "short",
