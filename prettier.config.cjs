@@ -1,4 +1,4 @@
 // prettier.config.js
-module.exports = {
+module.exports = { 
   plugins: ["prettier-plugin-tailwindcss"],
 };
