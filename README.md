@@ -50,7 +50,7 @@ Upon launching the app, users can:
 4. Click the "Place Order" button to submit the order.
 
 Deployment
-pizza-order-project-tau.vercel.app
+https://pizza-order-project-tau.vercel.app/
 
 Technologies Used
 
