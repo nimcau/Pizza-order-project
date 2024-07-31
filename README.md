@@ -5,12 +5,11 @@ Pizza Order App
 
 A simple React-based web application for ordering pizzas.
 
-
-Introduction
+ ## Introduction
 
 The Pizza Order App is a web application built using React, a popular JavaScript library for building user interfaces. It allows users to select their desired pizza toppings, choose the size, and place an order.
 
-Features
+## Features
 
 - Select pizza toppings from a list of available options
 - Choose the size of the pizza (small, medium, or large)
@@ -18,7 +17,7 @@ Features
 - Display the order summary before placing the order
 - Responsive design for seamless experience on various devices
 
-Installation
+## Installation
 
 To run the Pizza Order App locally, follow these steps:
 
